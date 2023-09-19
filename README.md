@@ -10,7 +10,7 @@ As I use a Windows computer, I cannot create the iOS portion of this app. If you
 ## Getting Started
 
 wasp-os companion is built on Flutter, with native Android code for background services.
-To install the app, check [Github Actions](https://github.com/tb100/wasp-os-companion/actions) for the latest version.
+To install the app, check [Github Actions](https://github.com/tofasthacker/wasp-os-companion/actions) for the latest version.
 
 ## Features
 - Device
